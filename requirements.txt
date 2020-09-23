@@ -1,4 +1,6 @@
 xgboost
 lightgbm
-plotly
 category-encoders
+tensorflow
+tensorflow-addons
+keras
